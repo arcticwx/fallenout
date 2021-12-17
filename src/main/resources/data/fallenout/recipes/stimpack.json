@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#i ",
+    "ii ",
+    "  i"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "fallenout:stimpack",
+    "count": 1
+  }
+}

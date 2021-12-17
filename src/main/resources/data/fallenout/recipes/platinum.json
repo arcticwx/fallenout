@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fallenout:raw_platinum"
+  },
+  "result": "fallenout:platinum",
+  "experience": 12,
+  "cookingtime": 600
+}
